@@ -3,6 +3,8 @@ package bi_difrente_Long;
 import javax.swing.JOptionPane;
 
 public class MostrarTabla {
+
+	//Comentario GitHub.
 	private static int Tabla[][] = {{23,45,11,2},{67,2},{1,2,3,4,5,6}};
 	
 	public static void main(String[] args) {
